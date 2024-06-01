@@ -43,6 +43,9 @@ function getTotalSupply() {
 
 mintNFT("mynft1", 3, "blue");
 mintNFT("mynft2", 2, "red");
+mintNFT("mynft3", 1, "green");
+mintNFT("mynft4", 7, "yellow");
+mintNFT("mynft5", 5, "black");
 
 listNFTs();
 getTotalSupply();
